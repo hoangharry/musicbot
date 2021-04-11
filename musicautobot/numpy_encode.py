@@ -5,7 +5,7 @@ import music21
 import numpy as np
 # from pathlib import Path
 
-BPB = 4 # beats per bar
+BPB = 3 # beats per bar
 TIMESIG = f'{BPB}/4' # default time signature
 PIANO_RANGE = (21, 108)
 VALTSEP = -1 # separator value for numpy encoding
